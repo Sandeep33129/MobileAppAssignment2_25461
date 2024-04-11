@@ -1,0 +1,31 @@
+[
+  {
+    "title": "GHOSTBUSTERS: FROZEN EMPIRE",
+    "overview": "In Ghostbusters: Frozen Empire, the Spengler family returns to where it all started – the iconic New York City firehouse – to team up with the original Ghostbusters.",
+    "posterurl": "https://www.myvue.com/-/jssmedia/vuecinemas/film-and-events/feb-2024/ghostbusters-poster.jpg?mw=450&rev=890c7016efc4412293629c8d63844732",
+    "runtime": "2hr 24mins",
+    "price": "5.99"
+  },
+  {
+    "title": "DUNE: PART TWO",
+    "overview": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+    "posterurl": "https://www.myvue.com/-/jssmedia/vuecinemas/img/import/7a7a20aa-1064-46fd-96cc-4b271268f2c5_dune-part-ii_posters_one-sheet_712px.jpg?mw=450&rev=c61dcb539042435c973daaeeb97100b6",
+    "runtime": "2hr 24mins",
+    "price": "4.69"
+  },
+  {
+    "title": "THE PERSIAN VERSION",
+    "overview": "Coming from two countries at odds with each other, Iranian-American Leila (Layla Mohammadi) strives to find balance and embrace her opposing cultures.",
+    "posterurl": "https://www.myvue.com/-/jssmedia/vuecinemas/img/import/00dad14c-3b29-4fb6-881e-1e5bf7ccca6e_the-persian-version_posters_the-persian-version_uk-9x16-1080x19.jpg?mw=450&rev=a4ae43198c49401ea3ce0d538b1d0293",
+    "runtime": "1hr 47mins",
+    "price": "6.93"
+  },
+  {
+    "title": "INDIANA JONES AND THE LAST CRUSADE (1989)",
+    "overview": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry \"Indiana\" Jones, Jr. finds himself up against Adolf Hitler.",
+    "posterurl": "https://www.myvue.com/-/jssmedia/vuecinemas/film-and-events/jan-2024/indiana_jones_and_the_last_crusade_ver1_xlg.jpg?mw=450&rev=597bc8134f284012b3fd5520b146437c",
+    "runtime": "2hr 7mins",
+    "price": "3.99"
+
+  }
+]
